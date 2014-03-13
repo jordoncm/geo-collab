@@ -1,0 +1,16 @@
+/**
+ * @fileoverview Main application styles.
+ */
+
+/**
+ * Positions the map to take the full screen.
+ */
+.map {
+    bottom: 0;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 100%;
+}
